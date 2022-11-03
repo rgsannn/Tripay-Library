@@ -16,7 +16,7 @@
 
 class Tripay {
     private $PrivateKey;
-	private $ApiKey;
+    private $ApiKey;
     private $MerchantCode;
     private $EndPoint = 'https://tripay.co.id/api/';
 
